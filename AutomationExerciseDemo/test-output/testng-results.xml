@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-04T23:20:53 IST" name="Default suite" finished-at="2024-02-04T23:21:05 IST" duration-ms="11574">
+    <groups>
+    </groups>
+    <test started-at="2024-02-04T23:20:53 IST" name="Default test" finished-at="2024-02-04T23:21:05 IST" duration-ms="11574">
+      <class name="com.ExcelrProject_2.AutomationExerciseDemo.Testcases">
+        <test-method is-config="true" signature="initialisation()[pri:0, instance:com.ExcelrProject_2.AutomationExerciseDemo.Testcases@65fb9ffc]" started-at="2024-02-04T23:20:53 IST" name="initialisation" finished-at="2024-02-04T23:21:00 IST" duration-ms="6786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialisation -->
+        <test-method signature="addtoCartRecomenditems()[pri:22, instance:com.ExcelrProject_2.AutomationExerciseDemo.Testcases@65fb9ffc]" started-at="2024-02-04T23:21:00 IST" name="addtoCartRecomenditems" finished-at="2024-02-04T23:21:05 IST" duration-ms="4752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCartRecomenditems -->
+      </class> <!-- com.ExcelrProject_2.AutomationExerciseDemo.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
